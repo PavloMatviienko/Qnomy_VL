@@ -4,9 +4,10 @@ venv/
 .env
 
 # All files
-allure-results/
+allure-reports/
 tests/login/screenshots/
 seleniun_examples/
+allure-results/
 
 # PyCharm files
 .idea/
